@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>A sample block to call multiple test cases</description>
+   <name>Peoplesoft block 1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>eaf6a3b7-d935-4566-ba62-aa5d75e649e3</testCaseGuid>
+</TestCaseEntity>

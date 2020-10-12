@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>recording the cas login</description>
+   <name>CAS login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ce5ff6c6-785c-4532-924d-7e5f2957ba93</testCaseGuid>
+</TestCaseEntity>

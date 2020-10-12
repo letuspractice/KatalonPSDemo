@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>A test case called by other cases to lookup a EMPLID's addresses</description>
+   <name>Peoplesoft Address</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5a54c165-c8ca-4d21-aae4-a7cf409bb199</testCaseGuid>
+</TestCaseEntity>
